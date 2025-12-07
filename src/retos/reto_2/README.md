@@ -1,4 +1,4 @@
-## Reto #2: 🏭 Fabrica los juguetes
+## Reto #2: 🏭 Fabrica los juguetes - Nivel Fácil
 
 La fábrica de Santa ha empezado a recibir la **lista de producción** de juguetes.
 Cada línea indica **qué juguete** hay que fabricar y **cuántas unidades.**
